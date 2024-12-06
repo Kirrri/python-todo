@@ -1,0 +1,18 @@
+[
+    [
+        "Личное",
+        "Работа",
+        "Прочее"
+    ],
+    [
+        "{\"id\":1,\"title\":\"z\",\"description\":\"z\",\"category\":\"Прочее\",\"due_date\":\"2024-12-07T00:00:00\",\"priority\":\"Низкий\",\"status\":false}",
+        "{\"id\":2,\"title\":\"ert\",\"description\":\"tre\",\"category\":\"личное\",\"due_date\":\"2024-12-17T00:00:00\",\"priority\":\"Высокий\",\"status\":false}",
+        "{\"id\":3,\"title\":\"ert\",\"description\":\"tre\",\"category\":\"личное\",\"due_date\":\"2025-01-01T00:00:00\",\"priority\":\"Средний\",\"status\":true}",
+        "{\"id\":4,\"title\":\"w\",\"description\":\"w\",\"category\":\"Прочее\",\"due_date\":\"2025-12-12T00:00:00\",\"priority\":\"Средний\",\"status\":false}",
+        "{\"id\":5,\"title\":\"ert\",\"description\":\"tre\",\"category\":\"прочее\",\"due_date\":\"2030-12-12T00:00:00\",\"priority\":\"Низкий\",\"status\":false}",
+        "{\"id\":6,\"title\":\"q\",\"description\":\"q\",\"category\":\"Личное\",\"due_date\":\"2050-10-10T00:00:00\",\"priority\":\"Низкий\",\"status\":false}",
+        "{\"id\":7,\"title\":\"qa\",\"description\":\"q\",\"category\":\"Личное\",\"due_date\":\"2055-10-10T00:00:00\",\"priority\":\"Низкий\",\"status\":false}",
+        "{\"id\":8,\"title\":\"z\",\"description\":\"z\",\"category\":\"Работа\",\"due_date\":\"2090-01-09T00:00:00\",\"priority\":\"Средний\",\"status\":false}",
+        "{\"id\":9,\"title\":\"e\",\"description\":\"e\",\"category\":\"Работа\",\"due_date\":\"2300-10-10T00:00:00\",\"priority\":\"Высокий\",\"status\":true}"
+    ]
+]
